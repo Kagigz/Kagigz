@@ -1,7 +1,9 @@
 ![banner](banner_github.jpg)
 
-I'm an ex-Software Engineer at Microsoft where I worked with customers on all sorts of projects, in a team focused on projects related to Data & Artificial Intelligence.
-I've now started working on my own startup with the help of a startup studio to revolutionize Customer Service in the manufacturing industry! 
+Right now, I'm working on creating my own startup with the help of a startup studio, to revolutionize Customer Service in the manufacturing industry.
+
+Before that, I was a Software Engineer at Microsoft where I worked with customers on all sorts of projects, in a team focused on projects related to Data & Artificial Intelligence.
+
 
 I've experimented with many technologies but right now I mostly use:
 - Python & Data Science or Machine Learning related libraries
