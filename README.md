@@ -1,6 +1,6 @@
 ![banner](banner_github.jpg)
 
-Right now, I'm working on creating my own startup with the help of a startup studio, to revolutionize Customer Service in the manufacturing industry.
+I recently co-founded [Emera](https://emera.app) and I'm its CTO. We're working on a SaaS to revolutionize Customer Service in the Manufacturing Industry.
 
 Before that, I was a Software Engineer at Microsoft where I worked with customers on all sorts of projects, in a team focused on projects related to Data & Artificial Intelligence.
 
