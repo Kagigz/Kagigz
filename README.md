@@ -1,6 +1,6 @@
 ![banner](banner_github.jpg)
 
-I recently co-founded [Emera](https://emera.app) and I'm its CTO. We're working on a SaaS to revolutionize Customer Service in the Manufacturing Industry.
+I recently co-founded [Emera](https://emera.app) and I'm its CTO. We're working on a SaaS to revolutionize Customer Service in the B2B.
 
 Before that, I was a Software Engineer at Microsoft where I worked with customers on all sorts of projects, in a team focused on projects related to Data & Artificial Intelligence.
 
